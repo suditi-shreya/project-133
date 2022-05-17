@@ -1,0 +1,42 @@
+body{
+    background-size: contain;
+    background-position: center;
+    
+}
+.heading{
+    width: 80%;
+    background-color: brown;
+    font-size: 30px;
+    color: white;
+    margin-top: 0;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+.link{
+    background-color: black;
+    border-radius: 10px;
+    width: 80px;
+    float: right;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px black;
+}
+.TV{
+    background-color: brown;
+    font-size: 30px;
+    color: white;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.Tv2{
+    background-color: brown;
+    font-size: 30px;
+    color: white;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    
+}

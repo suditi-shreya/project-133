@@ -1,0 +1,36 @@
+body{
+    background-size: contain;
+    background-position: center;
+    
+}
+.heading{
+    width: 80%;
+    background-color: brown;
+    font-size: 30px;
+    color: white;
+    margin-top: 0;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+#sub{
+    font-size: 20px;
+}
+.heading1,.heading2,.heading3,.heading4,.heading5
+{
+    background-color: darksalmon;
+    width: 50%;
+    color: black;
+    font-size: 25px;
+    font-style:initial;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+#object{
+    background-color: brown;
+    width : 50%;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-shadow: 10px 10px 10px black;
+}
